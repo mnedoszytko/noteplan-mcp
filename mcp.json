@@ -1,0 +1,22 @@
+{
+  "name": "noteplan",
+  "version": "1.0.0",
+  "description": "MCP server for NotePlan notes",
+  "command": "node",
+  "args": ["dist/index.js"],
+  "env": {},
+  "schema": {
+    "tools": [
+      "read_today_note",
+      "read_date_note",
+      "read_note",
+      "search_notes",
+      "list_tasks",
+      "list_projects",
+      "add_task",
+      "append_to_note",
+      "toggle_task",
+      "edit_task"
+    ]
+  }
+}
