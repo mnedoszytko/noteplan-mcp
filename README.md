@@ -1,6 +1,8 @@
 # NotePlan MCP Server
 
-MCP (Model Context Protocol) server for interacting with NotePlan notes through Claude or other LLMs.
+MCP (Model Context Protocol) server for interacting with [NotePlan](https://noteplan.co/) notes through Claude or other LLMs.
+
+NotePlan is a powerful markdown-based note-taking and task management app for macOS and iOS that combines calendar, notes, and todos in one place.
 
 ## Features
 
